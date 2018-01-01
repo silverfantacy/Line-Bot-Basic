@@ -6,15 +6,15 @@
 - [LINE BOT 實戰 ( 聊天篇 )](http://www.oxxostudio.tw/articles/201701/line-bot-2.html)
 - [實戰智慧插座 29 - 用日幣匯率開關燈 ( Node.js 爬蟲應用篇 )](https://ithelp.ithome.com.tw/articles/10188884)
 
-## 簡述
+簡述
 --------------------------
 紀錄用從 0 開始設置一個簡單 bot 
 
-## 環境
+環境
 --------------------------
 Node.js
 
-## 步驟
+步驟
 --------------------------
 1. 申請[Messaging API](https://developers.line.me/en/services/messaging-api/)
 ![設定畫面](https://screenshots.firefoxusercontent.com/images/7d9afe60-859d-4849-94b7-758f321127cc.png)
